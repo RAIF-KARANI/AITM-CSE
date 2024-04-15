@@ -1,0 +1,4 @@
+*HOW TO ADD FILE TO GITHUB*
+1. git add .
+2. git commit -m "added a file"
+3.git push -u origin master
